@@ -1,0 +1,43 @@
+.header-main{
+    display: inline-block;
+    flex-grow: 1;
+    min-width: auto;
+    float: right;
+}
+
+.flex-right{
+    padding-top: 12px;
+    font: 13px/27px Roboto,RobotoDraft,Arial,sans-serif;
+    float: right;
+    padding-left: 32px;
+}
+
+.gmail-lk{
+    display: inline-block;
+    padding-left: 15px;
+}
+
+.gmail{
+    font-size: 14px;
+    color: rgba(0,0,0,0.87);
+    text-decoration: none;
+    padding-right: 15px;
+}
+
+.gmail:hover{
+    text-decoration: underline;
+}
+
+.prof{
+    float: right;
+}
+
+.dotimg{
+    max-width: 24px;
+    max-height: 24px;
+    display: -webkit-inline-box;
+}
+
+.accimg{
+    max-width:25px;
+}
